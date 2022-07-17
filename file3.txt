@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  this is file3 inter
+=======
+ this is file3 in brach1
+>>>>>>> brach1
 this is same file3
