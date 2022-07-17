@@ -1,1 +1,5 @@
 This is file 2
+
+it is in branch2 stored
+
+now ot uploded in git hub
